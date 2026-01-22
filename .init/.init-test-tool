@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/roadside-assistance-platform-42851/user_website_frontend"
+}
